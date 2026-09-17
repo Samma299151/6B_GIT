@@ -1,0 +1,2 @@
+# pythonメインファイル
+print("main.py")
